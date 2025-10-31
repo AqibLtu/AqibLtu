@@ -2,7 +2,7 @@
 - 👀 I’m interested in Business Analyst
 - 🌱 I’m currently learning Information Technology
 - 📫 You can reach me via E-mail aqib.javaid8788@gmail.com and
--  linkedin https://www.linkedin.com/in/aqib-javaid-a51127216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B8tE0AHUSBC9xxcnfMOpXQ%3D%3D
-AqibLtu/AqibLtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  [linkedin](https://www.linkedin.com/in/aqibjavaid1999)
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AqibJavaid&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AqibJavaid&theme=radical&show_icons=true&hide_border=true&layout=compact)
