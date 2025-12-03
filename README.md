@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Aqib
-- 👀 I’m interested in Business Analyst
+- 👀 I’m interested in Data/Business/IT System Analyst positions.
 - 🌱 I’m currently learning Information Technology
 - 📫 You can reach me via E-mail aqib.javaid8788@gmail.com
 -  [linkedin](https://www.linkedin.com/in/aqibjavaid1999)
